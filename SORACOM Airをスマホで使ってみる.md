@@ -19,7 +19,7 @@
 
 今回はSORACOM Airを利用してスマートフォンにてデータ通信を行うため、SORACOMのサービス登録からデータ通信開始までをご紹介します。
 
-![ソラコムサイトトップ](ソラコムサイトトップ.png)
+![ソラコムサイトトップ](soracom_website_top.png)
 
 ## 使い始めるまでの手順
 
@@ -30,7 +30,7 @@
 1. スマートフォン端末の設定
 1. データ通信利用開始
 
-![今すぐはじめよう](今すぐはじめよう.png)
+![今すぐはじめよう](soracom_website_getting_started.png)
 <cite>https://soracom.jp/start/</cite>
 
 これらの手順に加えて、はじめて利用する場合はSORACOMアカウント作成が必要になります。詳しい手順については後ほどご紹介します。
@@ -54,7 +54,7 @@ SIMの種類は利用する端末が対応している種類（サイズ）を�
 
 購入するSIMが決まればAmazonでの購入となりますが、種類を間違えずに購入しましょう。サイズがナノでデータ通信のみであれば http://www.amazon.co.jp/dp/B015FFCZ02 から税込888円で購入できます。
 
-![Amazon.co.jp： SORACOM Air SIMカード（データ通信のみ） (ナノ): 家電・カメラ](SORACOM_Air_SIMカード_データ通信のみ_ナノ.png)  
+![Amazon.co.jp： SORACOM Air SIMカード（データ通信のみ） (ナノ): 家電・カメラ](soracom_air_sim_dataonly_nano.png)  
 <cite>http://www.amazon.co.jp/dp/B015FFCZ02</cite>
 
 Air SIM購入にあたってはAmazonアカウントの作成および決済ではクレジットカードの登録が必要になります。20歳未満の利用者が購入する場合には親権者または後見人が承諾する必要があると[Amazonの利用規約][Amazonの利用規約]に書かれてます。アカウント作成および購入に当たってはご家族に確認するようにしてください。
@@ -63,49 +63,49 @@ Air SIM購入にあたってはAmazonアカウントの作成および決済で�
 
 Amazonで決済が完了すると数日後（Prime会員の場合は最速で**当日**）に手元に届きます。
 
-![SORACOM Air SIM パッケージ](SORACOM_Air_SIM_パッケージ.png)
+![SORACOM Air SIM パッケージ](soracom_air_sim_package1.png)
 
-![SORACOM Air SIM 開封後1](SORACOM_Air_SIM_開封後1.png)
+![SORACOM Air SIM 開封後1](soracom_air_sim_open1.png)
 
 ## SORACOMアカウント作成
 
 届いたSIMを登録する前にSORACOMアカウントの作成を行います。アカウント作成するためには https://console.soracom.io/#/signup にアクセスします。
 
-![SORACOM アカウント作成1](SORACOMアカウント作成1.png)
+![SORACOM アカウント作成1](signup_soracom_account1.png)
 
 ここでは利用規約を十分読んでから `メールアドレス`、`パスワード`、`パスワード（確認）` を入力します。その際必須条件を満たすようパスワードを決定してください。
 
-![SORACOM アカウント作成2](SORACOMアカウント作成2.png)
+![SORACOM アカウント作成2](signup_soracom_account2.png)
 
 無事に作成ができるとメールアドレス確認のためにメールが送信されます。
 
-![SORACOM アカウント作成3](SORACOMアカウント作成3.png)
+![SORACOM アカウント作成3](signup_soracom_account3.png)
 
 ユーザー確認メールが届いたら、本文中にあるリンクをクリックし、登録が完了します。
 
-![SORACOMユーザー確認メール](SORACOMユーザー確認メール.png)
+![SORACOMユーザー確認メール](signup_soracom_account_mail.png)
 
 登録完了すると自動的にログイン画面が表示されます。先ほど登録したメールアドレスとパスワードでログインしてください。ログイン後はすぐに支払方法を設定する必要があります。
 
 ### お支払い方法の設定
 
-![SORACOMユーザーコンソール ログイン後1](ログイン後1.png)
+![SORACOMユーザーコンソール ログイン後1](after_first_login1.png)
 
 右上のメールアドレスのメニューから `お支払い方法設定` を選択して
 
-![SORACOMユーザーコンソール ログイン後2](ログイン後2.png)
+![SORACOMユーザーコンソール ログイン後2](after_first_login2.png)
 
 支払い方法画面では `新しいクレジットカードを登録` をクリックします。
 
-![SORACOMユーザーコンソール お支払い方法](お支払い方法.png)
+![SORACOMユーザーコンソール お支払い方法](payment_settings.png)
 
 ただしい `カード番号`、`有効期限`、`カード名義`、`セキュリティコード` を入力して `登録` ボタンをクリックします。
 
-![SORACOMユーザーコンソール クレジットカード登録](クレジットカード登録.png)
+![SORACOMユーザーコンソール クレジットカード登録](new_payment_method1.png)
 
 入力に誤りがなければ、無事に登録が完了します。
 
-![SORACOMユーザーコンソール クレジットカード登録完了](クレジットカード登録完了.png)
+![SORACOMユーザーコンソール クレジットカード登録完了](new_payment_method2.png)
 
 #### 未成年でクレジットカードを持っていない場合は？
 
@@ -115,37 +115,37 @@ Amazonで決済が完了すると数日後（Prime会員の場合は最速で**�
 
 ここまできたらAmazonで購入したAir SIMを自分のSORACOMアカウントに登録しましょう。ユーザーコンソールの `SIM 管理` へ移動します。
 
-![SORACOMユーザーコンソール SIM管理1](SIM管理1.png)
+![SORACOMユーザーコンソール SIM管理1](sim_management1.png)
 
 入手したSIMカードの裏面にある `IMSI(15桁)` と `PASSCODE(5桁)` を確認しましょう。
 
-![SORACOM Air SIM 裏面](SORACOM_Air_SIM_裏面.png)
+![SORACOM Air SIM 裏面](soracom_air_sim_backside.png)
 
 `SIM 登録` ボタンを押し、ポップアップしたフォームへ入力します。 `名前` と `グループ` はこの時点では気にしなくても大丈夫です。複数のSIMを管理するようになった場合には適宜決めてください。
 
-![SORACOMユーザーコンソール SIM登録](SIM登録.png)
+![SORACOMユーザーコンソール SIM登録](registering_sim1.png)
 
 `登録` ボタンをクリックし、登録に成功すると下記のように成功した旨、メッセージが表示されます。
 
-![SORACOMユーザーコンソール SIM登録完了](SIM登録完了.png)
+![SORACOMユーザーコンソール SIM登録完了](registering_sim2.png)
 
 `終了して元の画面に戻る` ボタンをクリックするとSIM一覧が表示され、先ほど登録したSIMが登録されたことが確認できます。
 
-![SORACOMユーザーコンソール SIM管理2](SIM管理2.png)
+![SORACOMユーザーコンソール SIM管理2](sim_management2.png)
 
 ### Air SIMのアクティベート（利用開始手続き）
 
 ここまでで新しいSIMの登録が済みました。データ通信を開始するにはSIMのアクティベート（利用開始手続き）を行わなければなりません。登録済みのSIMを選択して、`操作` メニューから `使用開始` を選択しましょう。
 
-![SORACOMユーザーコンソール SIMアクティベート1](SIMアクティベート1.png)
+![SORACOMユーザーコンソール SIMアクティベート1](sim_activate1.png)
 
 `ステータス変更` ダイアログがポップアップするので `ステータスを変更する` ボタンをクリックして変更を適用します。
 
-![SORACOMユーザーコンソール SIMアクティベート2](SIMアクティベート2.png)
+![SORACOMユーザーコンソール SIMアクティベート2](sim_activate2.png)
 
 成功するとSIM一覧の画面へ戻り `1個中1個のSIMの使用を開始しました` というメッセージが表示されます。
 
-![SORACOMユーザーコンソール SIMアクティベート完了](SIMアクティベート完了.png)
+![SORACOMユーザーコンソール SIMアクティベート完了](sim_activate3.png)
 
 ここまでくればSIMの利用登録が完了します。次は端末での操作になります。
 
@@ -157,15 +157,15 @@ Amazonで決済が完了すると数日後（Prime会員の場合は最速で**�
 
 この手順ではApple Storeで購入したSIMフリーのiPhone6を使用した例をご紹介します。
 
-![iPhone6とSIM準備](iPhone6とSIM準備.png)
+![iPhone6とSIM準備](preparing_iphone6_and_sim.png)
 
 ピンをiPhone6の側面にあるSIM取り出し用の穴へ差し込んでグッと押し込むとSIMカードが載っている土台が出てきます。
 
-![iPhone6 SIM取り出し穴](iPhone6_SIM取り出し穴.png)
+![iPhone6 SIM取り出し穴](iphone6_sim_pinhole.png)
 
 土台がでたら入手した新しいAir SIMを載せて、もとあった場所へ挿入します。
 
-![iPhone6へSIM入れ替え](iPhone6へSIM入れ替え.png)
+![iPhone6へSIM入れ替え](replacing_iphone6_sim.png)
 
 これでAir SIMの装着は完了です。次はAPNの設定になります。
 
@@ -175,29 +175,29 @@ APN設定をするためには https://soracom.jp/start/ へアクセスしま�
 
 `ステップ3 - 設定` にある `iPhone/iPad (iOS デバイス) をご利用の場合` から端末にあわせた方をダウンロードします（iOS7以降 or iOS6以前、どちらか）。
 
-![iOS用プロファイルインストール1](iOS用プロファイルインストール1.png)
+![install_ios_profile1](install_ios_profile1.png)
 
 ダウンロードされるとiPhoneの `プロファイルをインストールする` 画面になります。そこで右上の `インストール` をクリックし
 
-![iOS用プロファイルインストール2](iOS用プロファイルインストール2.png)
+![install_ios_profile2](install_ios_profile2.png)
 
 つづいてパスコードを入力し
 
-![iOS用プロファイルインストール3](iOS用プロファイルインストール3.png)
+![install_ios_profile3](install_ios_profile3.png)
 
 `承諾` 画面で `次へ` をクリックし
 
-![iOS用プロファイルインストール4](iOS用プロファイルインストール4.png)
+![install_ios_profile4](install_ios_profile4.png)
 
 さらに `警告` も確認して `インストール` をクリックすると
 
-![iOS用プロファイルインストール5](iOS用プロファイルインストール5.png)
+![install_ios_profile5](install_ios_profile5.png)
 
-![iOS用プロファイルインストール6](iOS用プロファイルインストール6.png)
+![install_ios_profile6](install_ios_profile6.png)
 
 無事にAPNプロファイルのインストールが完了します。
 
-![iOS用プロファイルインストール7](iOS用プロファイルインストール7.png)
+![install_ios_profile7](install_ios_profile7.png)
 
 #### iOS以外では
 
@@ -215,15 +215,15 @@ iOS以外の場合は各端末の設定で以下の設定を行います。
 
 Air SIMを利用した通信の確認のためWi-Fiをオフにします。
 
-![iPhone6 Wi-Fiオフ](iPhone6_Wi-Fiオフ.png)
+![iPhone6 Wi-Fiオフ](iphone6_wifi_off.png)
 
 この状態で左上のキャリア表示部分に **LTE** とあるのを確認して https://soracom.jp/ へアクセスしましょう。
 
-![iPhone6 soracomトップ](iPhone6_soracomトップ.png)
+![iPhone6 soracomトップ](iphone6_soracom_website.png)
 
 正常にウェブサイトが表示されればデータ通信は正常に行われています。念のため帯域の確認もする場合は例えばNTTドコモが配布している **[ドコモスピードテスト](https://itunes.apple.com/jp/app/dokomosupidotesuto/id904856196)** アプリをダウンロードして実行してみてください。
 
-![ドコモスピードテスト結果1](ドコモスピードテスト結果1.png)
+![ドコモスピードテスト結果1](docomo_speed_test_result1.png)
 
 現時点では標準タイプの **s1.standard** を利用しているため上り下り共に **0.5Mbps** 程度になるはずです。
 
@@ -250,19 +250,19 @@ Air SIMを利用した通信の確認のためWi-Fiをオフにします。
 
 SIM一覧の `速度クラス` のプルダウンをクリックすると4つの速度クラスが選択肢として表示されます。
 
-![速度クラス変更1](速度クラス変更1.png)
+![速度クラス変更1](changing_speed_class1.png)
 
 ここでは `s1.fast` を選択して `速度クラスを変更する` をクリックして確定してみましょう。
 
-![速度クラス変更2](速度クラス変更2.png)
+![速度クラス変更2](changing_speed_class2.png)
 
 変更に成功すると `速度クラスを変更しました` というメッセージが表示され速度クラスの表示が `s1.fast` に変更されます。
 
-![速度クラス変更3](速度クラス変更3.png)
+![速度クラス変更3](changing_speed_class3.png)
 
 本当に帯域が変更された再度ドコモスピードテストアプリで確認してみましょう。
 
-![ドコモスピードテスト結果2](ドコモスピードテスト結果2.png)
+![ドコモスピードテスト結果2](docomo_speed_test_result2.png)
 
 上り下り共に 2Mbps 前後が出ているを確認できました。設定後すぐに反映され、かつ安定的な通信ができるのはSORACOM Airの魅力です。定常的な利用だけでなく、夜間は帯域を制限するなど、利用者の用途にあわせて管理出来るのもウレシイですね。
 
@@ -274,11 +274,11 @@ SIM一覧の `速度クラス` のプルダウンをクリックすると4つの
 
 `有効期限`はその名の通り、SIMを停止する日時を設定します。この日時以降は新しいセッション（通信）を開始することができなくなります。該当のSIMの`有効期限`部分へマウスカーソルを乗せ、鉛筆マークをクリックすると `SIM 有効期限変更` ダイアログが表示されるので、日付と時刻を入力し `有効期限を変更する` ボタンをクリックして変更を確定します。
 
-![SIM有効期限変更](SIM有効期限変更.png)
+![SIM有効期限変更](changing_sim_expiretime1.png)
 
 変更が成功すると `有効期限を変更しました` というメッセージが表示され `有効期限` が指定した日時へ変更されているのが確認できます。
 
-![SIM有効期限変更完了](SIM有効期限変更完了.png)
+![SIM有効期限変更完了](changing_sim_expiretime2.png)
 
 このようにして、あらかじめ期限を切ったデータ通信利用設定をユーザーコンソール上で指定することが可能です。
 
