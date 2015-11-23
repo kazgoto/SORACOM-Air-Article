@@ -61,11 +61,11 @@ Air SIM購入にあたってはAmazonアカウントの作成および決済で�
 
 [Amazonの利用規約]: http://www.amazon.co.jp/gp/help/customer/display.html?ie=UTF8&nodeId=643006
 
-Amazonで決済が完了すると数日後（Prime会員の場合は最速で**当日**）に手元に届きます。
+Amazonで決済が完了すると数日後（Prime会員の場合は最速で **当日**）に手元に届きます。
 
-![SORACOM Air SIM パッケージ](soracom_air_sim_package1.png)
+![SORACOM Air SIM パッケージ](soracom_air_sim_package.png)
 
-![SORACOM Air SIM 開封後1](soracom_air_sim_open1.png)
+![SORACOM Air SIM 開封後1](soracom_air_sim_open.png)
 
 ## SORACOMアカウント作成
 
@@ -231,7 +231,7 @@ Air SIMを利用した通信の確認のためWi-Fiをオフにします。
 
 すでに端末ではデータ通信の確認ができました。ユーザーコンソールではその状況がどう見えるでしょうか。
 
-![SIM開通後](SIM開通後.png)
+![SIM開通後](sim_management3.png)
 
 `セッションの状態` が `オンライン` となっているはずです。この状態を見れば現在通信しているかどうかがわかるようになっています。
 
