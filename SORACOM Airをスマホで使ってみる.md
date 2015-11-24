@@ -50,7 +50,7 @@
 - Air SIM （SMS 対応）マイクロ
 - Air SIM （SMS 対応）標準(mini)
 
-SIMの種類は利用する端末が対応している種類（サイズ）を選びます。例えば今回使用するiPhone6では **ナノ** を使用します。またSMS機能が必要あればSMS対応版を利用しましょう。今回はSMS対応無しの **データ通信のみ** のもので説明を進めます。
+SIMの種類は利用する端末が対応している種類（サイズ）を選びます。例えば今回使用するiPhone 6では **ナノ** を使用します。またSMS機能が必要あればSMS対応版を利用しましょう。今回はSMS対応無しの **データ通信のみ** のもので説明を進めます。
 
 購入するSIMが決まればAmazonでの購入となりますが、種類を間違えずに購入しましょう。サイズがナノでデータ通信のみであれば http://www.amazon.co.jp/dp/B015FFCZ02 から税込888円で購入できます。
 
@@ -155,17 +155,17 @@ Amazonで決済が完了すると数日後（Prime会員の場合は最速で **
 
 それでは実際にスマートフォンへSIMを入れてみましょう。入手したSIMをカードから爪を折って取り出してください。またSIMカードを取り出すためのピンを準備して下さい。
 
-この手順ではApple Storeで購入したSIMフリーのiPhone6を使用した例をご紹介します。
+この手順ではApple Storeで購入したSIMフリーのiPhone 6を使用した例をご紹介します。
 
-![iPhone6とSIM準備](preparing_iphone6_and_sim.png)
+![iPhone 6とSIM準備](preparing_iPhone 6_and_sim.png)
 
-ピンをiPhone6の側面にあるSIM取り出し用の穴へ差し込んでグッと押し込むとSIMカードが載っている土台が出てきます。
+ピンをiPhone 6の側面にあるSIM取り出し用の穴へ差し込んでグッと押し込むとSIMカードが載っている土台が出てきます。
 
-![iPhone6 SIM取り出し穴](iphone6_sim_pinhole.png)
+![iPhone 6 SIM取り出し穴](iPhone 6_sim_pinhole.png)
 
 土台がでたら入手した新しいAir SIMを載せて、もとあった場所へ挿入します。
 
-![iPhone6へSIM入れ替え](replacing_iphone6_sim.png)
+![iPhone 6へSIM入れ替え](replacing_iPhone 6_sim.png)
 
 これでAir SIMの装着は完了です。次はAPNの設定になります。
 
@@ -173,7 +173,7 @@ Amazonで決済が完了すると数日後（Prime会員の場合は最速で **
 
 APN設定をするためには https://soracom.jp/start/ へアクセスします。この段階ではまだデータ通信の利用可能になっていません。そのためWi-Fiが利用できる環境で設定を行うようにしてください。
 
-`ステップ3 - 設定` にある `iPhone/iPad (iOS デバイス) をご利用の場合` から端末にあわせた方をダウンロードします（iOS7以降 or iOS6以前、どちらか）。
+`ステップ3 - 設定` にある `iPhone/iPad (iOS デバイス) をご利用の場合` から端末にあわせた方をダウンロードします（iOS 7以降 or iOS 6以前、どちらか）。
 
 ![install_ios_profile1](install_ios_profile1.png)
 
@@ -215,11 +215,11 @@ iOS以外の場合は各端末の設定で以下の設定を行います。
 
 Air SIMを利用した通信の確認のためWi-Fiをオフにします。
 
-![iPhone6 Wi-Fiオフ](iphone6_wifi_off.png)
+![iPhone 6 Wi-Fiオフ](iPhone 6_wifi_off.png)
 
 この状態で左上のキャリア表示部分に **LTE** とあるのを確認して https://soracom.jp/ へアクセスしましょう。
 
-![iPhone6 soracomトップ](iphone6_soracom_website.png)
+![iPhone 6 soracomトップ](iPhone 6_soracom_website.png)
 
 正常にウェブサイトが表示されればデータ通信は正常に行われています。念のため帯域の確認もする場合は例えばNTTドコモが配布している **[ドコモスピードテスト](https://itunes.apple.com/jp/app/dokomosupidotesuto/id904856196)** アプリをダウンロードして実行してみてください。
 
